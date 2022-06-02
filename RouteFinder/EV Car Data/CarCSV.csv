@@ -1,0 +1,15 @@
+﻿Car Name,Battery Capacity (kWh),Charge Power (kW),Mileage (km),k (km/kWh),Rated Energy Consumption (Wh / km),0-80 charge time (min),Fastcharge Speed (km/hr)
+MG ZS EV,49,75,270,5.510204082,173,43,-1
+Tata Tigor EV,26,50,306,11.76923077,130.0390117,65,-1
+Tata Nexon EV,30.2,50,213,7.052980132,-1,60,-1
+Strom Motors EV,-1,-1,-1,#DIV/0!,-1,-1,-1
+Mini Cooper SE,28.9,49,185,6.401384083,152,-1,260
+Jaguar I-Pace,84.7,104,380,4.486422668,156,-1,360
+BMW iX xDrive40,71,150,350,4.929577465,194,-1,470
+Porsche Taycan,71,225,410,5.774647887,204,-1,820
+BYD E6,71.7,100,400,5.578800558,180,40,-1
+Audi e-tron 55 quattro,86.5,155,365,4.219653179,224,-1,590
+Tesla S,95,250,560,5.894736842,151,-1,780
+Tesla 3,57.5,170,380,6.608695652,144,-1,590
+Tesla X,95,250,465,4.894736842,174,-1,650
+Tesla Y,75,210,415,5.533333333,171,-1,580
